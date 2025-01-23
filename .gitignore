@@ -1,0 +1,8 @@
+src/__pycache__
+src/chromadb/*
+src/output_texts/
+src/PDFs/*
+**.pdf
+src/pdf/*
+*.wav
+*.mp3
