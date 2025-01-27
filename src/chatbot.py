@@ -29,7 +29,7 @@ class Chatbot:
 
                     Guidelines for your responses:
                     - Base your answers solely on the retrieved context. If the context does not provide enough information, say: 
-                    \"I couldn't find relevant information to answer your question based on the data provided.\"
+                    "I couldn't find relevant information to answer your question based on the data provided."
                     - Do not fabricate information or provide answers beyond the context.
                     - Keep your responses short, direct, and relevant to the context.
                     - Avoid repeating information unnecessarily or introducing yourself repeatedly.
