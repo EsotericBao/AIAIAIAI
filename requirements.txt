@@ -5,12 +5,14 @@ langchain-openai
 langchain_chroma
 #python-dotenv
 pyppeteer
-pypdf2
+
+easyocr
 
 paddlepaddle        #CPU OCR
 paddlepaddle-gpu    #GPU OCR
 paddleocr
 
+pypdf
 pymupdf
 pdf2image
 langdetect
@@ -19,8 +21,17 @@ langdetect
 #Speech part
 ffmpeg-python
 openai-whisper
+pydub
+noisereduce
+librosa
 sounddevice
+pyaudio
 
 google-cloud-texttospeech
 
-protobuf==3.20.2 #resolve dependencies issues (paddlepaddle takes priority over google cloud)
+
+streamlit
+streamlit-lottie
+streamlit_extras
+
+protobuf==3.20.2 #required version
